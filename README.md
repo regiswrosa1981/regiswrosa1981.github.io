@@ -22,3 +22,10 @@ URL:
 `https://regiswrosa1981.github.io/`
 
 O conteúdo profissional foi estruturado com base no currículo de agosto de 2026, incluindo 16+ anos de experiência, Network Security, Qualys, SPM, Vulnerability Management, CIS Controls, CIS Benchmarks, hardening, Cisco, Fortinet, Check Point e Palo Alto.
+
+
+### V6 — ajuste de publicação
+- Foto circular reduzida para proporção mais equilibrada na primeira dobra.
+- Tipografia principal padronizada em Manrope com fallbacks de sistema.
+- Efeito de scanline reduzido para evitar aparência estranha no texto.
+- Cache-busting aplicado ao CSS, JS e foto para garantir que o GitHub Pages carregue a versão nova.
