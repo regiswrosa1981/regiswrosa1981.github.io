@@ -1,36 +1,32 @@
-# Régis Rosa — Cybersecurity Portfolio V2
+# Régis Rosa — Portfolio V3
 
-Portfólio profissional focado em Cybersecurity, Network Security, Security Architecture, Qualys e Vulnerability Management.
+Design premium/minimalista para GitHub Pages.
 
-## Estrutura
+### Tipografia
+- **Space Grotesk** — títulos e identidade visual.
+- **Inter** — corpo e leitura.
+- **JetBrains Mono** — labels técnicos e elementos de interface.
 
-- `index.html` — página principal
-- `style.css` — design responsivo
-- `script.js` — menu mobile
-- `curriculo.pdf` — substituir pelo currículo real
+### Arquivos
+- index.html
+- style.css
+- script.js
+- curriculo.pdf (placeholder)
 
-## GitHub Pages
+### Publicação
+Repositório recomendado: `regiswrosa1981.github.io`
+GitHub Pages: Settings → Pages → Deploy from branch → main → root.
 
-Recomendado: criar o repositório público `regiswrosa1981.github.io` e enviar os arquivos para a raiz.
+### Antes de publicar
+- Substituir `curriculo.pdf` pelo CV real.
+- Substituir o link genérico do LinkedIn pelo perfil correto.
+- Revisar cases antes de divulgação.
+- Não publicar dados confidenciais de clientes.
 
-Em **Settings → Pages**:
-- Source: Deploy from a branch
-- Branch: `main`
-- Folder: `/ (root)`
+### Direção visual
+Dark premium, editorial, minimalista e técnico; sem estética "hacker". Foco em senioridade, clareza, arquitetura e evidência de atuação.
 
-URL esperada:
-`https://regiswrosa1981.github.io/`
 
-## Antes de publicar
-
-1. Substitua `curriculo.pdf` pelo CV real.
-2. Substitua os links genéricos do LinkedIn pelo endereço correto.
-3. Revise e personalize os cases.
-4. Não publique nomes de clientes, IPs, credenciais, screenshots sensíveis, topologias reais ou documentos proprietários sem autorização.
-
-## Posicionamento
-
-A V2 foi estruturada para comunicar uma combinação de:
-**Network Engineering + Cybersecurity + Risk + Security Architecture + Qualys.**
-
-O objetivo é que o site funcione como portfólio técnico para recrutadores, gestores e clientes, e não apenas como um currículo online.
+## Dados personalizados
+- LinkedIn: https://www.linkedin.com/in/regisrosa1981
+- E-mail: regiswrosa@outlook.com
