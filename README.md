@@ -30,3 +30,4 @@ Dark premium, editorial, minimalista e técnico; sem estética "hacker". Foco em
 ## Dados personalizados
 - LinkedIn: https://www.linkedin.com/in/regisrosa1981
 - E-mail: regiswrosa@outlook.com
+Deployment refresh
